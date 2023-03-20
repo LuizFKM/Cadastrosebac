@@ -130,7 +130,7 @@ int main() //função tela do menu
 {
     int opcao=0;
 	int laco=1; //Definindo variáveis
-	char senhadigitada[10]="a";
+	char senhadigitada[10]="a"; 
 	int comparacao;
 	printf ("### Cartório da EBAC ###\n\n");
 	printf ("Login do administrador! \nDigite sua senha: \n\n");
@@ -142,7 +142,7 @@ int main() //função tela do menu
    
 	{
 		
-	
+		system ("cls");
 		for(laco=1;laco=1;)//operadores de repetição
     	{
 			system("cls");
